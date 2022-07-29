@@ -101,7 +101,7 @@ def train(model, criterion, optimizer, scheduler, epochs, dl, valid_dl, device):
     acc_max = 0
 
     acc = valid(model, criterion, valid_dl, device)
-    print(f"The accuracy of the model of worker {torch.cuda.current_device()} on epoch 0 is {acc*100}%")
+    print(f"The accuracy of the model of worker {rank} on epoch 0 is {acc*100}%")
 
     for i in range(epochs):
         model.train()
@@ -117,14 +117,14 @@ def train(model, criterion, optimizer, scheduler, epochs, dl, valid_dl, device):
 
         if (i % 10 == 0):
             acc = valid(model, criterion, valid_dl, device)
-            print(f"The accuracy of the model of worker {torch.cuda.current_device()} on epoch {i+1} is {acc*100}%")
+            print(f"The accuracy of the model of worker {rank} on epoch {i+1} is {acc*100}%")
             
             if acc_max < acc:
                 acc_max = acc
         scheduler.step()
 
     acc = valid(model, criterion, valid_dl, device)
-    print(f"The accuracy of the model of worker {torch.cuda.current_device()} on epoch {epochs} is {acc*100}%")
+    print(f"The accuracy of the model of worker {rank} on epoch {epochs} is {acc*100}%")
     del loss
 
     if acc_max < acc:
@@ -135,7 +135,7 @@ def train_nocords(model, criterion, optimizer, scheduler, epochs, dl, valid_dl, 
     acc_max = 0
 
     acc = valid(model, criterion, valid_dl, device)
-    print(f"The accuracy of the model of worker {torch.cuda.current_device()} on epoch 0 is {round(acc*100, 2)}%")
+    print(f"The accuracy of the model of worker {rank} on epoch 0 is {round(acc*100, 2)}%")
 
     for i in range(epochs):
         model.train()
@@ -152,14 +152,14 @@ def train_nocords(model, criterion, optimizer, scheduler, epochs, dl, valid_dl, 
 
         if (i % 10 == 0):
             acc = valid(model, criterion, valid_dl, device)
-            print(f"The accuracy of the model of worker {torch.cuda.current_device()} on epoch {i+1} is {round(acc*100, 2)}%")
+            print(f"The accuracy of the model of worker {rank} on epoch {i+1} is {round(acc*100, 2)}%")
             
             if acc_max < acc:
                 acc_max = acc
         scheduler.step()
     
     acc = valid(model, criterion, valid_dl, device)
-    print(f"The accuracy of the model of worker {torch.cuda.current_device()} on epoch {epochs} is {round(acc*100, 2)}%")
+    print(f"The accuracy of the model of worker {rank} on epoch {epochs} is {round(acc*100, 2)}%")
 
     if acc_max < acc:
         acc_max = acc
