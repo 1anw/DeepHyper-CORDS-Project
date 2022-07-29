@@ -1,0 +1,15 @@
+
+Currently Loaded Modules:
+  1) openmpi/openmpi-4.0.5   2) Core/StdEnv   3) conda/pytorch
+
+ 
+
+2022-07-29 14:07:59.488263: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2022-07-29 14:07:59.488252: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2022-07-29 14:07:59.488246: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2022-07-29 14:07:59.488255: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2022-07-29 14:07:59.488258: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2022-07-29 14:07:59.488267: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2022-07-29 14:07:59.488249: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2022-07-29 14:07:59.488266: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+0it [00:00, ?it/s]1it [00:00, 10512.04it/s, failures=0, objective=0.818]2it [00:00, 24.12it/s, failures=0, objective=0.872]   3it [00:02,  1.47it/s, failures=0, objective=0.872]3it [00:02,  1.47it/s, failures=0, objective=0.872]4it [00:04,  1.41s/it, failures=0, objective=0.872]4it [00:04,  1.41s/it, failures=0, objective=0.892]5it [00:08,  2.15s/it, failures=0, objective=0.892]5it [00:08,  2.15s/it, failures=0, objective=0.892]6it [00:10,  2.17s/it, failures=0, objective=0.892]6it [00:10,  2.17s/it, failures=0, objective=0.921]7it [00:26,  6.36s/it, failures=0, objective=0.921]7it [00:26,  6.36s/it, failures=0, objective=0.923]8it [16:45, 303.07s/it, failures=0, objective=0.923]8it [16:45, 303.07s/it, failures=0, objective=0.923]9it [16:47, 211.79s/it, failures=0, objective=0.923]9it [16:47, 211.79s/it, failures=0, objective=0.923]10it [16:50, 148.57s/it, failures=0, objective=0.923]10it [16:50, 148.57s/it, failures=0, objective=0.923]11it [16:58, 106.02s/it, failures=0, objective=0.923]11it [16:58, 106.02s/it, failures=0, objective=0.923]12it [17:08, 77.18s/it, failures=0, objective=0.923] 12it [17:08, 77.18s/it, failures=0, objective=0.923]13it [17:09, 54.20s/it, failures=0, objective=0.923]13it [17:09, 54.20s/it, failures=0, objective=0.923]14it [17:47, 49.53s/it, failures=0, objective=0.923]14it [17:48, 49.53s/it, failures=0, objective=0.923]

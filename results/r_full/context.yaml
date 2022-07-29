@@ -1,0 +1,39 @@
+calls:
+- max_evals: -1
+  timeout: 2700
+search:
+  acq_func: UCB
+  acq_optimizer: auto
+  evaluator:
+    callbacks: list
+    comm: Intracomm
+    num_workers: 7
+    run_function: function
+    run_function_kwargs: {}
+    type: MPICommEvaluator
+  filter_duplicated: true
+  filter_failures: mean
+  initial_points:
+  - - 0.002236068
+    - 0.525
+    - rmsprop
+    - 0.316227766
+    - 0.0001
+  kappa: 1.96
+  log_dir: /lus/grand/projects/datascience/ianwixom/expcifar/r_full
+  max_failures: 100
+  moo_scalarization_strategy: Chebyshev
+  moo_scalarization_weight: null
+  multi_point_strategy: cl_min
+  n_initial_points: 10
+  n_jobs: 1
+  n_points: 10000
+  num_workers: 7
+  problem: HpProblem
+  random_state: RandomState
+  surrogate_model: RF
+  sync_communication: false
+  type: CBO
+  update_prior: false
+  verbose: 0
+  xi: 0.001
