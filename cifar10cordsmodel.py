@@ -315,7 +315,7 @@ def run(config: dict):
         criterion = nn.CrossEntropyLoss(reduction = 'none')
     else:
         criterion = nn.CrossEntropyLoss()
-    optimizer = optdict[config["optimizers"]](model.parameters(), lr=config["lr"],
+    optimizer = o.RMSprop(model.parameters(), lr=config["lr"],
                                                 momentum=config['momentum'],
                                                 weight_decay=config['weightdecay'])
     
@@ -346,14 +346,10 @@ if __name__ == "__main__":
 
     prob = HpProblem()
 
-    optimizers = ["rmsprop", "sgd"]
-    optdict = {"rmsprop": o.RMSprop, "sgd": o.SGD}
-
-    prob.add_hyperparameter(optimizers, "optimizers", default_value = "sgd")
-    prob.add_hyperparameter((1e-05,5e-01, 'log-uniform'), "lr", default_value = 1e-02)
-    prob.add_hyperparameter((0.1,0.95), "momentum", default_value = 0.9)
-    prob.add_hyperparameter((1e-5,1e-3, 'log-uniform'), "weightdecay", default_value = 5e-4)
-    prob.add_hyperparameter((0.01, 10.0, 'log-uniform'), 'regularization', default_value = 1.0)
+    prob.add_hyperparameter((1e-05,5e-01, 'log-uniform'), "lr")
+    prob.add_hyperparameter((0.1,0.95), "momentum")
+    prob.add_hyperparameter((1e-5,1e-3, 'log-uniform'), "weightdecay")
+    prob.add_hyperparameter((0.01, 10.0, 'log-uniform'), 'regularization')
 
     epochs = 50
 
@@ -371,9 +367,7 @@ if __name__ == "__main__":
 
             # Search creation
             search = CBO(prob, 
-                        evaluator, 
-                        initial_points=[prob.default_configuration], 
-                        random_state = 3)
+                        evaluator)
 
             # Search execution
             print("Starting the search...")
