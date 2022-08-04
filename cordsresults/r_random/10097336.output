@@ -1,0 +1,794 @@
+Creation of the Evaluator...
+Creation of the Evaluator done with 7 worker(s)
+Starting the search...
+Running on GPU  4
+Running on GPU  5
+Running on GPU  6
+Running on GPU  7
+Running on GPU  1
+Running on GPU  2
+Running on GPU  3
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 1 is 9.76%
+The accuracy of the model of worker 0 on epoch 1 is 10.38%
+The accuracy of the model of worker 0 on epoch 1 is 21.88%
+The accuracy of the model of worker 0 on epoch 1 is 10.280000000000001%
+The accuracy of the model of worker 0 on epoch 1 is 34.68%
+The accuracy of the model of worker 0 on epoch 1 is 31.56%
+The accuracy of the model of worker 0 on epoch 1 is 9.42%
+[08/03 10:52:42] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0033. 
+[08/03 10:52:42] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 10:52:42] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 10:52:42] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 10:52:42] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 10:52:42] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 10:52:43] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0011. 
+The accuracy of the model of worker 0 on epoch 11 is 10.18%
+The accuracy of the model of worker 0 on epoch 11 is 25.080000000000002%
+The accuracy of the model of worker 0 on epoch 11 is 35.92%
+The accuracy of the model of worker 0 on epoch 11 is 10.280000000000001%
+The accuracy of the model of worker 0 on epoch 11 is 10.02%
+The accuracy of the model of worker 0 on epoch 11 is 59.760000000000005%
+The accuracy of the model of worker 0 on epoch 11 is 64.02%
+[08/03 10:53:23] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 10:53:23] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 10:53:23] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 10:53:23] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 10:53:23] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 10:53:23] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 10:53:24] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 21 is 70.42%
+The accuracy of the model of worker 0 on epoch 21 is 9.76%
+The accuracy of the model of worker 0 on epoch 21 is 10.08%
+The accuracy of the model of worker 0 on epoch 21 is 9.76%
+The accuracy of the model of worker 0 on epoch 21 is 52.78%
+The accuracy of the model of worker 0 on epoch 21 is 9.76%
+The accuracy of the model of worker 0 on epoch 21 is 73.8%
+[08/03 10:54:03] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 10:54:03] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 10:54:04] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 10:54:04] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 10:54:04] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 10:54:04] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 10:54:06] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 31 is 10.14%
+The accuracy of the model of worker 0 on epoch 31 is 68.46%
+The accuracy of the model of worker 0 on epoch 31 is 20.7%
+The accuracy of the model of worker 0 on epoch 31 is 11.940000000000001%
+The accuracy of the model of worker 0 on epoch 31 is 60.199999999999996%
+The accuracy of the model of worker 0 on epoch 31 is 10.02%
+The accuracy of the model of worker 0 on epoch 31 is 76.44%
+[08/03 10:54:43] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 10:54:44] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 10:54:44] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 10:54:44] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 10:54:45] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 10:54:45] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 10:54:47] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 41 is 10.08%
+The accuracy of the model of worker 0 on epoch 41 is 75.72%
+The accuracy of the model of worker 0 on epoch 41 is 25.240000000000002%
+The accuracy of the model of worker 0 on epoch 41 is 10.08%
+The accuracy of the model of worker 0 on epoch 41 is 57.14%
+The accuracy of the model of worker 0 on epoch 41 is 9.42%
+The accuracy of the model of worker 0 on epoch 41 is 77.96%
+The accuracy of the model of worker 0 on epoch 50 is 10.639999999999999%
+The accuracy of the model of worker 0 on epoch 50 is 73.0%
+The accuracy of the model of worker 0 on epoch 50 is 45.72%
+The accuracy of the model of worker 0 on epoch 50 is 10.08%
+The accuracy of the model of worker 0 on epoch 50 is 53.959999999999994%
+Running on GPU  2
+The accuracy of the model of worker 0 on epoch 50 is 10.08%
+Running on GPU  7
+Files already downloaded and verified
+Running on GPU  4
+Files already downloaded and verified
+Files already downloaded and verified
+Running on GPU  5
+Files already downloaded and verified
+Files already downloaded and verified
+Running on GPU  6
+Files already downloaded and verified
+Files already downloaded and verified
+Running on GPU  1
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 78.5%
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+Running on GPU  3
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 1 is 37.580000000000005%
+The accuracy of the model of worker 0 on epoch 1 is 40.42%
+The accuracy of the model of worker 0 on epoch 1 is 12.72%
+The accuracy of the model of worker 0 on epoch 1 is 19.12%
+The accuracy of the model of worker 0 on epoch 1 is 10.66%
+The accuracy of the model of worker 0 on epoch 1 is 29.020000000000003%
+The accuracy of the model of worker 0 on epoch 1 is 40.300000000000004%
+[08/03 10:56:11] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 10:56:12] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0011. 
+[08/03 10:56:12] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 10:56:12] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0011. 
+[08/03 10:56:13] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0011. 
+[08/03 10:56:13] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0011. 
+[08/03 10:56:15] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0011. 
+The accuracy of the model of worker 0 on epoch 11 is 67.86%
+The accuracy of the model of worker 0 on epoch 11 is 65.64%
+The accuracy of the model of worker 0 on epoch 11 is 44.42%
+The accuracy of the model of worker 0 on epoch 11 is 29.599999999999998%
+The accuracy of the model of worker 0 on epoch 11 is 9.76%
+The accuracy of the model of worker 0 on epoch 11 is 56.39999999999999%
+The accuracy of the model of worker 0 on epoch 11 is 54.54%
+[08/03 10:56:51] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 10:56:52] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 10:56:53] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 10:56:53] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 10:56:53] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 10:56:54] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 10:56:56] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 21 is 71.96000000000001%
+The accuracy of the model of worker 0 on epoch 21 is 67.02%
+The accuracy of the model of worker 0 on epoch 21 is 39.78%
+The accuracy of the model of worker 0 on epoch 21 is 40.78%
+The accuracy of the model of worker 0 on epoch 21 is 26.38%
+The accuracy of the model of worker 0 on epoch 21 is 67.52%
+The accuracy of the model of worker 0 on epoch 21 is 68.34%
+[08/03 10:57:32] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 10:57:33] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 10:57:33] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 10:57:34] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 10:57:34] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 10:57:35] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 10:57:37] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 31 is 70.26%
+The accuracy of the model of worker 0 on epoch 31 is 61.44%
+The accuracy of the model of worker 0 on epoch 31 is 53.68000000000001%
+The accuracy of the model of worker 0 on epoch 31 is 10.12%
+The accuracy of the model of worker 0 on epoch 31 is 29.580000000000002%
+The accuracy of the model of worker 0 on epoch 31 is 72.92%
+The accuracy of the model of worker 0 on epoch 31 is 71.06%
+[08/03 10:58:13] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 10:58:14] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 10:58:14] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 10:58:14] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 10:58:15] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 10:58:16] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 10:58:19] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 41 is 70.86%
+The accuracy of the model of worker 0 on epoch 41 is 49.54%
+The accuracy of the model of worker 0 on epoch 41 is 73.36%
+The accuracy of the model of worker 0 on epoch 41 is 11.72%
+The accuracy of the model of worker 0 on epoch 41 is 16.64%
+The accuracy of the model of worker 0 on epoch 41 is 74.03999999999999%
+The accuracy of the model of worker 0 on epoch 41 is 71.76%
+The accuracy of the model of worker 0 on epoch 50 is 77.25999999999999%
+Running on GPU  2
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 47.88%
+Running on GPU  4
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 73.52%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 10.24%
+Running on GPU  6
+The accuracy of the model of worker 0 on epoch 50 is 47.24%
+Files already downloaded and verified
+Files already downloaded and verified
+Running on GPU  5
+Files already downloaded and verified
+Running on GPU  7
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 69.76%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+Running on GPU  1
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 50 is 72.66%
+Running on GPU  3
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 1 is 18.54%
+The accuracy of the model of worker 0 on epoch 1 is 10.38%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 1 is 39.64%
+The accuracy of the model of worker 0 on epoch 1 is 36.76%
+The accuracy of the model of worker 0 on epoch 1 is 35.9%
+The accuracy of the model of worker 0 on epoch 1 is 34.98%
+The accuracy of the model of worker 0 on epoch 1 is 29.759999999999998%
+[08/03 10:59:39] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0011. 
+[08/03 10:59:40] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0011. 
+[08/03 10:59:41] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 10:59:42] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 10:59:42] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 10:59:43] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0011. 
+The accuracy of the model of worker 0 on epoch 11 is 25.119999999999997%
+The accuracy of the model of worker 0 on epoch 11 is 10.24%
+[08/03 10:59:46] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+The accuracy of the model of worker 0 on epoch 11 is 52.32%
+The accuracy of the model of worker 0 on epoch 11 is 61.12%
+The accuracy of the model of worker 0 on epoch 11 is 64.02%
+The accuracy of the model of worker 0 on epoch 11 is 60.919999999999995%
+The accuracy of the model of worker 0 on epoch 11 is 54.24%
+[08/03 11:00:20] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:00:21] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:00:22] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:00:22] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:00:22] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:00:25] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 21 is 45.48%
+The accuracy of the model of worker 0 on epoch 21 is 11.18%
+[08/03 11:00:27] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 21 is 58.660000000000004%
+The accuracy of the model of worker 0 on epoch 21 is 61.8%
+The accuracy of the model of worker 0 on epoch 21 is 73.0%
+The accuracy of the model of worker 0 on epoch 21 is 57.64%
+The accuracy of the model of worker 0 on epoch 21 is 69.19999999999999%
+[08/03 11:01:01] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:01:01] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:01:02] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:01:03] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:01:03] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:01:06] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 31 is 10.620000000000001%
+The accuracy of the model of worker 0 on epoch 31 is 10.9%
+The accuracy of the model of worker 0 on epoch 31 is 61.739999999999995%
+[08/03 11:01:08] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 31 is 72.38%
+The accuracy of the model of worker 0 on epoch 31 is 74.44%
+The accuracy of the model of worker 0 on epoch 31 is 74.22%
+The accuracy of the model of worker 0 on epoch 31 is 74.38%
+[08/03 11:01:41] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:01:42] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:01:43] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:01:44] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:01:45] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:01:47] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 41 is 26.340000000000003%
+The accuracy of the model of worker 0 on epoch 41 is 40.300000000000004%
+The accuracy of the model of worker 0 on epoch 41 is 62.53999999999999%
+[08/03 11:01:49] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 41 is 71.76%
+The accuracy of the model of worker 0 on epoch 41 is 70.02000000000001%
+The accuracy of the model of worker 0 on epoch 41 is 69.74000000000001%
+The accuracy of the model of worker 0 on epoch 41 is 75.86%
+The accuracy of the model of worker 0 on epoch 50 is 56.10000000000001%
+Running on GPU  2
+The accuracy of the model of worker 0 on epoch 50 is 29.659999999999997%
+Files already downloaded and verified
+Running on GPU  4
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 63.7%
+Running on GPU  6
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 77.03999999999999%
+Files already downloaded and verified
+Running on GPU  7
+The accuracy of the model of worker 0 on epoch 50 is 76.5%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+Running on GPU  5
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 50 is 76.82%
+Running on GPU  1
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 69.17999999999999%
+Running on GPU  3
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 1 is 35.099999999999994%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 1 is 41.82%
+The accuracy of the model of worker 0 on epoch 1 is 35.02%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 1 is 33.879999999999995%
+The accuracy of the model of worker 0 on epoch 1 is 26.340000000000003%
+The accuracy of the model of worker 0 on epoch 1 is 28.1%
+The accuracy of the model of worker 0 on epoch 1 is 40.48%
+[08/03 11:03:08] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0011. 
+[08/03 11:03:09] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 11:03:10] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 11:03:11] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 11:03:12] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+The accuracy of the model of worker 0 on epoch 11 is 55.08%
+The accuracy of the model of worker 0 on epoch 11 is 60.0%
+[08/03 11:03:14] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+The accuracy of the model of worker 0 on epoch 11 is 66.82000000000001%
+The accuracy of the model of worker 0 on epoch 11 is 64.58%
+[08/03 11:03:17] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0011. 
+The accuracy of the model of worker 0 on epoch 11 is 50.63999999999999%
+The accuracy of the model of worker 0 on epoch 11 is 57.74%
+The accuracy of the model of worker 0 on epoch 11 is 63.080000000000005%
+[08/03 11:03:49] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:03:49] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:03:50] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:03:51] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:03:53] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 21 is 62.68%
+The accuracy of the model of worker 0 on epoch 21 is 69.46%
+[08/03 11:03:56] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 21 is 71.08%
+The accuracy of the model of worker 0 on epoch 21 is 72.8%
+[08/03 11:03:58] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 21 is 51.12%
+The accuracy of the model of worker 0 on epoch 21 is 66.86%
+The accuracy of the model of worker 0 on epoch 21 is 59.31999999999999%
+[08/03 11:04:30] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:04:30] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:04:31] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:04:32] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:04:33] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 31 is 69.24%
+The accuracy of the model of worker 0 on epoch 31 is 68.60000000000001%
+The accuracy of the model of worker 0 on epoch 31 is 55.620000000000005%
+[08/03 11:04:37] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 31 is 68.64%
+[08/03 11:04:39] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 31 is 68.82000000000001%
+The accuracy of the model of worker 0 on epoch 31 is 61.62%
+The accuracy of the model of worker 0 on epoch 31 is 74.08%
+[08/03 11:05:11] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:05:11] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:05:11] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:05:12] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:05:14] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 41 is 67.30000000000001%
+The accuracy of the model of worker 0 on epoch 41 is 70.76%
+The accuracy of the model of worker 0 on epoch 41 is 75.82%
+[08/03 11:05:18] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 41 is 76.75999999999999%
+[08/03 11:05:19] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 41 is 61.46%
+The accuracy of the model of worker 0 on epoch 41 is 74.56%
+The accuracy of the model of worker 0 on epoch 41 is 72.26%
+The accuracy of the model of worker 0 on epoch 50 is 69.66%
+The accuracy of the model of worker 0 on epoch 50 is 74.16%
+The accuracy of the model of worker 0 on epoch 50 is 78.82000000000001%
+Running on GPU  6
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 73.96000000000001%
+Running on GPU  7
+Running on GPU  2
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Running on GPU  4
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 74.14%
+Running on GPU  5
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 50 is 66.46%
+Running on GPU  1
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 73.68%
+Files already downloaded and verified
+Running on GPU  3
+The accuracy of the model of worker 0 on epoch 1 is 29.880000000000003%
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 1 is 21.740000000000002%
+The accuracy of the model of worker 0 on epoch 1 is 25.44%
+The accuracy of the model of worker 0 on epoch 1 is 37.16%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 1 is 22.74%
+The accuracy of the model of worker 0 on epoch 1 is 27.66%
+The accuracy of the model of worker 0 on epoch 1 is 10.02%
+[08/03 11:06:38] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 11:06:39] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 11:06:39] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 11:06:39] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 11:06:41] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+The accuracy of the model of worker 0 on epoch 11 is 60.419999999999995%
+The accuracy of the model of worker 0 on epoch 11 is 46.36%
+The accuracy of the model of worker 0 on epoch 11 is 62.38%
+The accuracy of the model of worker 0 on epoch 11 is 67.64%
+[08/03 11:06:46] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+The accuracy of the model of worker 0 on epoch 11 is 57.3%
+[08/03 11:06:47] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+The accuracy of the model of worker 0 on epoch 11 is 53.92%
+The accuracy of the model of worker 0 on epoch 11 is 10.66%
+[08/03 11:07:18] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:07:19] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:07:19] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:07:20] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:07:22] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 21 is 67.96%
+The accuracy of the model of worker 0 on epoch 21 is 56.8%
+The accuracy of the model of worker 0 on epoch 21 is 63.519999999999996%
+The accuracy of the model of worker 0 on epoch 21 is 60.14000000000001%
+[08/03 11:07:27] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:07:27] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 21 is 55.60000000000001%
+The accuracy of the model of worker 0 on epoch 21 is 68.64%
+The accuracy of the model of worker 0 on epoch 21 is 9.16%
+[08/03 11:07:59] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:08:00] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:08:00] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:08:01] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:08:02] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 31 is 67.58%
+The accuracy of the model of worker 0 on epoch 31 is 74.28%
+The accuracy of the model of worker 0 on epoch 31 is 75.02%
+The accuracy of the model of worker 0 on epoch 31 is 76.58%
+The accuracy of the model of worker 0 on epoch 31 is 69.39999999999999%
+[08/03 11:08:08] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:08:08] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 31 is 19.24%
+The accuracy of the model of worker 0 on epoch 31 is 75.74%
+[08/03 11:08:40] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:08:40] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:08:40] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:08:42] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:08:43] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 41 is 76.94%
+The accuracy of the model of worker 0 on epoch 41 is 75.3%
+The accuracy of the model of worker 0 on epoch 41 is 64.53999999999999%
+The accuracy of the model of worker 0 on epoch 41 is 72.72%
+The accuracy of the model of worker 0 on epoch 41 is 68.06%
+[08/03 11:08:49] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:08:49] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 41 is 10.14%
+The accuracy of the model of worker 0 on epoch 41 is 75.9%
+The accuracy of the model of worker 0 on epoch 50 is 70.48%
+The accuracy of the model of worker 0 on epoch 50 is 70.26%
+The accuracy of the model of worker 0 on epoch 50 is 78.72%
+Running on GPU  2
+Files already downloaded and verified
+Running on GPU  6
+Running on GPU  7
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 74.78%
+Files already downloaded and verified
+Running on GPU  4
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 71.67999999999999%
+Files already downloaded and verified
+Running on GPU  5
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 50 is 10.14%
+The accuracy of the model of worker 0 on epoch 1 is 10.08%
+The accuracy of the model of worker 0 on epoch 50 is 70.3%
+Running on GPU  1
+The accuracy of the model of worker 0 on epoch 1 is 10.08%
+The accuracy of the model of worker 0 on epoch 1 is 7.9799999999999995%
+Files already downloaded and verified
+Running on GPU  3
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 1 is 19.7%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 1 is 18.38%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 1 is 24.4%
+The accuracy of the model of worker 0 on epoch 1 is 20.96%
+[08/03 11:10:07] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 11:10:07] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 11:10:07] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 11:10:09] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 11:10:10] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+The accuracy of the model of worker 0 on epoch 11 is 10.14%
+The accuracy of the model of worker 0 on epoch 11 is 17.06%
+The accuracy of the model of worker 0 on epoch 11 is 11.12%
+The accuracy of the model of worker 0 on epoch 11 is 48.88%
+The accuracy of the model of worker 0 on epoch 11 is 43.62%
+[08/03 11:10:16] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 11:10:17] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0011. 
+The accuracy of the model of worker 0 on epoch 11 is 42.88%
+The accuracy of the model of worker 0 on epoch 11 is 52.76%
+[08/03 11:10:47] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:10:47] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:10:48] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:10:49] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:10:51] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 21 is 10.08%
+The accuracy of the model of worker 0 on epoch 21 is 8.06%
+The accuracy of the model of worker 0 on epoch 21 is 10.24%
+The accuracy of the model of worker 0 on epoch 21 is 62.36000000000001%
+The accuracy of the model of worker 0 on epoch 21 is 58.720000000000006%
+[08/03 11:10:57] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:10:58] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 21 is 63.980000000000004%
+The accuracy of the model of worker 0 on epoch 21 is 50.82%
+[08/03 11:11:28] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:11:28] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:11:29] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:11:30] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:11:31] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 31 is 10.02%
+The accuracy of the model of worker 0 on epoch 31 is 15.2%
+The accuracy of the model of worker 0 on epoch 31 is 10.7%
+The accuracy of the model of worker 0 on epoch 31 is 58.76%
+The accuracy of the model of worker 0 on epoch 31 is 50.94%
+[08/03 11:11:38] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:11:39] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 31 is 50.660000000000004%
+The accuracy of the model of worker 0 on epoch 31 is 67.02%
+[08/03 11:12:08] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:12:09] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:12:10] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:12:11] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:12:12] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 41 is 10.24%
+The accuracy of the model of worker 0 on epoch 41 is 10.059999999999999%
+The accuracy of the model of worker 0 on epoch 41 is 10.24%
+The accuracy of the model of worker 0 on epoch 41 is 59.21999999999999%
+The accuracy of the model of worker 0 on epoch 41 is 26.419999999999998%
+[08/03 11:12:19] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:12:20] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 41 is 57.96%
+The accuracy of the model of worker 0 on epoch 41 is 61.31999999999999%
+The accuracy of the model of worker 0 on epoch 50 is 10.36%
+The accuracy of the model of worker 0 on epoch 50 is 9.42%
+Running on GPU  2
+Files already downloaded and verified
+Running on GPU  7
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 10.08%
+Files already downloaded and verified
+Running on GPU  6
+The accuracy of the model of worker 0 on epoch 50 is 62.72%
+Files already downloaded and verified
+Running on GPU  4
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 50 is 49.04%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+Running on GPU  5
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 1 is 15.4%
+The accuracy of the model of worker 0 on epoch 1 is 28.060000000000002%
+The accuracy of the model of worker 0 on epoch 50 is 72.44%
+The accuracy of the model of worker 0 on epoch 1 is 19.82%
+Running on GPU  1
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 70.38%
+The accuracy of the model of worker 0 on epoch 1 is 22.24%
+Running on GPU  3
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 1 is 25.240000000000002%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 1 is 31.319999999999997%
+The accuracy of the model of worker 0 on epoch 1 is 24.52%
+[08/03 11:13:35] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 11:13:35] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0011. 
+[08/03 11:13:37] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0011. 
+[08/03 11:13:37] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 11:13:39] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+The accuracy of the model of worker 0 on epoch 11 is 50.480000000000004%
+The accuracy of the model of worker 0 on epoch 11 is 54.42%
+The accuracy of the model of worker 0 on epoch 11 is 54.779999999999994%
+The accuracy of the model of worker 0 on epoch 11 is 51.82%
+The accuracy of the model of worker 0 on epoch 11 is 57.8%
+[08/03 11:13:46] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 11:13:47] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+The accuracy of the model of worker 0 on epoch 11 is 65.44%
+The accuracy of the model of worker 0 on epoch 11 is 53.38%
+[08/03 11:14:16] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:14:16] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:14:18] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:14:18] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:14:20] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 21 is 53.66%
+The accuracy of the model of worker 0 on epoch 21 is 69.44%
+The accuracy of the model of worker 0 on epoch 21 is 69.76%
+The accuracy of the model of worker 0 on epoch 21 is 58.220000000000006%
+The accuracy of the model of worker 0 on epoch 21 is 50.18%
+[08/03 11:14:27] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:14:28] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 21 is 68.62%
+The accuracy of the model of worker 0 on epoch 21 is 49.46%
+[08/03 11:14:56] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:14:56] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:14:58] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:14:59] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:15:01] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 31 is 64.7%
+The accuracy of the model of worker 0 on epoch 31 is 76.0%
+The accuracy of the model of worker 0 on epoch 31 is 68.8%
+The accuracy of the model of worker 0 on epoch 31 is 61.339999999999996%
+The accuracy of the model of worker 0 on epoch 31 is 72.36%
+[08/03 11:15:08] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:15:09] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 31 is 66.66%
+The accuracy of the model of worker 0 on epoch 31 is 71.7%
+[08/03 11:15:37] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:15:37] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:15:39] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:15:40] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:15:42] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 41 is 63.160000000000004%
+The accuracy of the model of worker 0 on epoch 41 is 77.62%
+The accuracy of the model of worker 0 on epoch 41 is 62.2%
+The accuracy of the model of worker 0 on epoch 41 is 72.7%
+The accuracy of the model of worker 0 on epoch 41 is 67.60000000000001%
+[08/03 11:15:49] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:15:50] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 41 is 75.48%
+The accuracy of the model of worker 0 on epoch 41 is 65.42%
+The accuracy of the model of worker 0 on epoch 50 is 69.98%
+The accuracy of the model of worker 0 on epoch 50 is 71.3%
+Running on GPU  7
+Files already downloaded and verified
+Running on GPU  2
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 78.46%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 67.64%
+Running on GPU  4
+Files already downloaded and verified
+Running on GPU  6
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 50 is 70.3%
+Running on GPU  5
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 1 is 32.940000000000005%
+The accuracy of the model of worker 0 on epoch 1 is 24.92%
+The accuracy of the model of worker 0 on epoch 1 is 19.32%
+The accuracy of the model of worker 0 on epoch 1 is 21.240000000000002%
+The accuracy of the model of worker 0 on epoch 50 is 76.72%
+Running on GPU  1
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 72.39999999999999%
+Running on GPU  3
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 1 is 28.799999999999997%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 0 is 10.66%
+The accuracy of the model of worker 0 on epoch 1 is 27.36%
+The accuracy of the model of worker 0 on epoch 1 is 29.78%
+[08/03 11:17:04] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0011. 
+[08/03 11:17:05] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0011. 
+[08/03 11:17:06] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0011. 
+[08/03 11:17:06] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 11:17:09] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0011. 
+The accuracy of the model of worker 0 on epoch 11 is 52.62%
+The accuracy of the model of worker 0 on epoch 11 is 56.64%
+The accuracy of the model of worker 0 on epoch 11 is 50.63999999999999%
+The accuracy of the model of worker 0 on epoch 11 is 40.48%
+The accuracy of the model of worker 0 on epoch 11 is 54.02%
+[08/03 11:17:16] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+[08/03 11:17:18] __main__ INFO: Epoch: 11, Random subset selection finished, takes 0.0012. 
+The accuracy of the model of worker 0 on epoch 11 is 49.04%
+The accuracy of the model of worker 0 on epoch 11 is 49.7%
+[08/03 11:17:44] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:17:45] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:17:47] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:17:47] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:17:49] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 21 is 60.5%
+The accuracy of the model of worker 0 on epoch 21 is 67.60000000000001%
+The accuracy of the model of worker 0 on epoch 21 is 65.72%
+The accuracy of the model of worker 0 on epoch 21 is 50.06%
+The accuracy of the model of worker 0 on epoch 21 is 60.81999999999999%
+[08/03 11:17:58] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+[08/03 11:17:59] __main__ INFO: Epoch: 21, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 21 is 59.46%
+The accuracy of the model of worker 0 on epoch 21 is 51.019999999999996%
+[08/03 11:18:25] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:18:26] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:18:28] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:18:28] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:18:30] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 31 is 67.94%
+The accuracy of the model of worker 0 on epoch 31 is 63.78%
+The accuracy of the model of worker 0 on epoch 31 is 60.519999999999996%
+The accuracy of the model of worker 0 on epoch 31 is 59.760000000000005%
+The accuracy of the model of worker 0 on epoch 31 is 68.10000000000001%
+[08/03 11:18:39] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+[08/03 11:18:39] __main__ INFO: Epoch: 31, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 31 is 58.24%
+The accuracy of the model of worker 0 on epoch 31 is 64.96%
+[08/03 11:19:05] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:19:06] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:19:08] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:19:08] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:19:11] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 41 is 67.60000000000001%
+The accuracy of the model of worker 0 on epoch 41 is 75.6%
+The accuracy of the model of worker 0 on epoch 41 is 61.46%
+The accuracy of the model of worker 0 on epoch 41 is 70.86%
+The accuracy of the model of worker 0 on epoch 41 is 64.1%
+[08/03 11:19:19] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+[08/03 11:19:20] __main__ INFO: Epoch: 41, Random subset selection finished, takes 0.0000. 
+The accuracy of the model of worker 0 on epoch 41 is 70.62%
+The accuracy of the model of worker 0 on epoch 41 is 66.97999999999999%
+The accuracy of the model of worker 0 on epoch 50 is 73.83999999999999%
+Search is done
+
+The default configuration has an accuracy of 0.106. 
+The best configuration found by DeepHyper has an accuracy 0.788, 
+finished after 208.14 seconds of search.
+
+The accuracy of the model of worker 0 on epoch 50 is 68.47999999999999%
+The accuracy of the model of worker 0 on epoch 50 is 67.16%
+The accuracy of the model of worker 0 on epoch 50 is 66.16%
+The accuracy of the model of worker 0 on epoch 50 is 72.61999999999999%
+The accuracy of the model of worker 0 on epoch 50 is 65.98%
+The accuracy of the model of worker 0 on epoch 50 is 71.28%
+[0m[0m[0m[0m[0m[0m[0m[0m

@@ -1,0 +1,570 @@
+Creation of the Evaluator...
+Creation of the Evaluator done with 7 worker(s)
+Starting the search...
+Running on GPU  1
+Running on GPU  3
+Running on GPU  4
+Running on GPU  5
+Running on GPU  6
+Running on GPU  7
+Running on GPU  2
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 1 is 34.56%
+The accuracy of the model of worker 0 on epoch 1 is 42.64%
+The accuracy of the model of worker 0 on epoch 1 is 59.26%
+The accuracy of the model of worker 0 on epoch 1 is 12.78%
+The accuracy of the model of worker 0 on epoch 1 is 39.76%
+The accuracy of the model of worker 0 on epoch 1 is 10.0%
+The accuracy of the model of worker 0 on epoch 1 is 59.22%
+The accuracy of the model of worker 0 on epoch 11 is 69.98%
+The accuracy of the model of worker 0 on epoch 11 is 10.0%
+The accuracy of the model of worker 0 on epoch 11 is 86.96%
+The accuracy of the model of worker 0 on epoch 11 is 24.84%
+The accuracy of the model of worker 0 on epoch 11 is 80.7%
+The accuracy of the model of worker 0 on epoch 11 is 85.74%
+The accuracy of the model of worker 0 on epoch 11 is 82.04%
+The accuracy of the model of worker 0 on epoch 21 is 76.1%
+The accuracy of the model of worker 0 on epoch 21 is 32.96%
+The accuracy of the model of worker 0 on epoch 21 is 10.32%
+The accuracy of the model of worker 0 on epoch 21 is 90.92%
+The accuracy of the model of worker 0 on epoch 21 is 86.92%
+The accuracy of the model of worker 0 on epoch 21 is 83.9%
+The accuracy of the model of worker 0 on epoch 21 is 87.46%
+The accuracy of the model of worker 0 on epoch 31 is 63.82%
+The accuracy of the model of worker 0 on epoch 31 is 56.02%
+The accuracy of the model of worker 0 on epoch 31 is 11.3%
+The accuracy of the model of worker 0 on epoch 31 is 88.26%
+The accuracy of the model of worker 0 on epoch 31 is 89.52%
+The accuracy of the model of worker 0 on epoch 31 is 85.06%
+The accuracy of the model of worker 0 on epoch 31 is 86.02%
+The accuracy of the model of worker 0 on epoch 41 is 72.82%
+The accuracy of the model of worker 0 on epoch 41 is 65.6%
+The accuracy of the model of worker 0 on epoch 41 is 49.06%
+The accuracy of the model of worker 0 on epoch 41 is 87.02%
+The accuracy of the model of worker 0 on epoch 41 is 85.8%
+The accuracy of the model of worker 0 on epoch 41 is 84.72%
+The accuracy of the model of worker 0 on epoch 41 is 82.94%
+The accuracy of the model of worker 0 on epoch 50 is 81.46%
+Running on GPU  3
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 50 is 70.16%
+Running on GPU  6
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 50 is 84.0%
+The accuracy of the model of worker 0 on epoch 50 is 9.5%
+The accuracy of the model of worker 0 on epoch 50 is 89.36%
+Running on GPU  4
+Files already downloaded and verified
+Running on GPU  5
+Files already downloaded and verified
+Running on GPU  2
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 1 is 56.7%
+The accuracy of the model of worker 0 on epoch 50 is 89.9%
+Running on GPU  1
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 88.42%
+Running on GPU  7
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 1 is 38.9%
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 1 is 56.28%
+The accuracy of the model of worker 0 on epoch 1 is 42.54%
+The accuracy of the model of worker 0 on epoch 1 is 10.28%
+The accuracy of the model of worker 0 on epoch 1 is 61.3%
+The accuracy of the model of worker 0 on epoch 1 is 56.46%
+The accuracy of the model of worker 0 on epoch 11 is 86.64%
+The accuracy of the model of worker 0 on epoch 11 is 82.48%
+The accuracy of the model of worker 0 on epoch 11 is 85.88%
+The accuracy of the model of worker 0 on epoch 11 is 10.24%
+The accuracy of the model of worker 0 on epoch 11 is 80.94%
+The accuracy of the model of worker 0 on epoch 11 is 86.12%
+The accuracy of the model of worker 0 on epoch 11 is 84.96%
+The accuracy of the model of worker 0 on epoch 21 is 90.04%
+The accuracy of the model of worker 0 on epoch 21 is 88.16%
+The accuracy of the model of worker 0 on epoch 21 is 10.0%
+The accuracy of the model of worker 0 on epoch 21 is 88.7%
+The accuracy of the model of worker 0 on epoch 21 is 85.2%
+The accuracy of the model of worker 0 on epoch 21 is 88.7%
+The accuracy of the model of worker 0 on epoch 21 is 88.14%
+The accuracy of the model of worker 0 on epoch 31 is 91.62%
+The accuracy of the model of worker 0 on epoch 31 is 83.44%
+The accuracy of the model of worker 0 on epoch 31 is 34.3%
+The accuracy of the model of worker 0 on epoch 31 is 92.12%
+The accuracy of the model of worker 0 on epoch 31 is 84.74%
+The accuracy of the model of worker 0 on epoch 31 is 91.98%
+The accuracy of the model of worker 0 on epoch 31 is 89.92%
+The accuracy of the model of worker 0 on epoch 41 is 92.36%
+The accuracy of the model of worker 0 on epoch 41 is 79.58%
+The accuracy of the model of worker 0 on epoch 41 is 67.16%
+The accuracy of the model of worker 0 on epoch 41 is 79.7%
+The accuracy of the model of worker 0 on epoch 41 is 92.4%
+The accuracy of the model of worker 0 on epoch 41 is 89.56%
+The accuracy of the model of worker 0 on epoch 41 is 92.88%
+The accuracy of the model of worker 0 on epoch 50 is 93.12%
+Running on GPU  3
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 50 is 87.86%
+Running on GPU  6
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 1 is 10.2%
+The accuracy of the model of worker 0 on epoch 50 is 69.14%
+Running on GPU  2
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 1 is 41.18%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 50 is 83.16%
+Running on GPU  5
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 50 is 93.22%
+Running on GPU  4
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 50 is 87.78%
+Running on GPU  7
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 92.82%
+Running on GPU  1
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 1 is 56.6%
+The accuracy of the model of worker 0 on epoch 1 is 61.84%
+The accuracy of the model of worker 0 on epoch 1 is 60.6%
+The accuracy of the model of worker 0 on epoch 1 is 58.06%
+The accuracy of the model of worker 0 on epoch 1 is 57.26%
+The accuracy of the model of worker 0 on epoch 11 is 11.86%
+The accuracy of the model of worker 0 on epoch 11 is 74.22%
+The accuracy of the model of worker 0 on epoch 11 is 85.3%
+The accuracy of the model of worker 0 on epoch 11 is 86.54%
+The accuracy of the model of worker 0 on epoch 11 is 86.76%
+The accuracy of the model of worker 0 on epoch 11 is 87.16%
+The accuracy of the model of worker 0 on epoch 11 is 85.26%
+The accuracy of the model of worker 0 on epoch 21 is 10.64%
+The accuracy of the model of worker 0 on epoch 21 is 83.6%
+The accuracy of the model of worker 0 on epoch 21 is 89.14%
+The accuracy of the model of worker 0 on epoch 21 is 90.66%
+The accuracy of the model of worker 0 on epoch 21 is 90.06%
+The accuracy of the model of worker 0 on epoch 21 is 90.72%
+The accuracy of the model of worker 0 on epoch 21 is 89.0%
+The accuracy of the model of worker 0 on epoch 31 is 9.76%
+The accuracy of the model of worker 0 on epoch 31 is 86.4%
+The accuracy of the model of worker 0 on epoch 31 is 91.64%
+The accuracy of the model of worker 0 on epoch 31 is 92.22%
+The accuracy of the model of worker 0 on epoch 31 is 92.1%
+The accuracy of the model of worker 0 on epoch 31 is 91.58%
+The accuracy of the model of worker 0 on epoch 31 is 91.94%
+The accuracy of the model of worker 0 on epoch 41 is 9.42%
+The accuracy of the model of worker 0 on epoch 41 is 84.16%
+The accuracy of the model of worker 0 on epoch 41 is 92.64%
+The accuracy of the model of worker 0 on epoch 41 is 92.02%
+The accuracy of the model of worker 0 on epoch 41 is 91.68%
+The accuracy of the model of worker 0 on epoch 41 is 92.58%
+The accuracy of the model of worker 0 on epoch 41 is 92.26%
+The accuracy of the model of worker 0 on epoch 50 is 10.14%
+Running on GPU  3
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 50 is 77.56%
+Running on GPU  6
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 1 is 56.72%
+The accuracy of the model of worker 0 on epoch 1 is 40.24%
+The accuracy of the model of worker 0 on epoch 50 is 92.98%
+Running on GPU  2
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 50 is 91.02%
+Running on GPU  5
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 50 is 91.9%
+Running on GPU  1
+The accuracy of the model of worker 0 on epoch 50 is 89.96%
+Files already downloaded and verified
+Running on GPU  7
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 50 is 91.82%
+Running on GPU  4
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 1 is 56.88%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 1 is 60.26%
+The accuracy of the model of worker 0 on epoch 1 is 58.62%
+The accuracy of the model of worker 0 on epoch 1 is 53.62%
+The accuracy of the model of worker 0 on epoch 1 is 60.5%
+The accuracy of the model of worker 0 on epoch 11 is 84.46%
+The accuracy of the model of worker 0 on epoch 11 is 75.0%
+The accuracy of the model of worker 0 on epoch 11 is 85.68%
+The accuracy of the model of worker 0 on epoch 11 is 87.5%
+The accuracy of the model of worker 0 on epoch 11 is 85.84%
+The accuracy of the model of worker 0 on epoch 11 is 85.5%
+The accuracy of the model of worker 0 on epoch 11 is 89.4%
+The accuracy of the model of worker 0 on epoch 21 is 91.34%
+The accuracy of the model of worker 0 on epoch 21 is 84.16%
+The accuracy of the model of worker 0 on epoch 21 is 89.5%
+The accuracy of the model of worker 0 on epoch 21 is 90.06%
+The accuracy of the model of worker 0 on epoch 21 is 91.3%
+The accuracy of the model of worker 0 on epoch 21 is 90.66%
+The accuracy of the model of worker 0 on epoch 21 is 88.6%
+The accuracy of the model of worker 0 on epoch 31 is 92.24%
+The accuracy of the model of worker 0 on epoch 31 is 87.3%
+The accuracy of the model of worker 0 on epoch 31 is 91.78%
+The accuracy of the model of worker 0 on epoch 31 is 92.2%
+The accuracy of the model of worker 0 on epoch 31 is 89.0%
+The accuracy of the model of worker 0 on epoch 31 is 89.24%
+The accuracy of the model of worker 0 on epoch 31 is 87.42%
+The accuracy of the model of worker 0 on epoch 41 is 89.58%
+The accuracy of the model of worker 0 on epoch 41 is 85.42%
+The accuracy of the model of worker 0 on epoch 41 is 91.7%
+The accuracy of the model of worker 0 on epoch 41 is 90.04%
+The accuracy of the model of worker 0 on epoch 41 is 87.64%
+The accuracy of the model of worker 0 on epoch 41 is 87.08%
+The accuracy of the model of worker 0 on epoch 41 is 92.48%
+The accuracy of the model of worker 0 on epoch 50 is 87.58%
+Running on GPU  3
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 50 is 81.06%
+Running on GPU  6
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 1 is 45.74%
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 1 is 59.3%
+The accuracy of the model of worker 0 on epoch 50 is 91.24%
+Running on GPU  7
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 89.26%
+Running on GPU  1
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 50 is 89.32%
+Running on GPU  5
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 87.54%
+Running on GPU  2
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 1 is 59.5%
+The accuracy of the model of worker 0 on epoch 1 is 53.2%
+The accuracy of the model of worker 0 on epoch 1 is 54.28%
+The accuracy of the model of worker 0 on epoch 1 is 44.04%
+The accuracy of the model of worker 0 on epoch 50 is 91.16%
+Running on GPU  4
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 1 is 29.92%
+The accuracy of the model of worker 0 on epoch 11 is 82.84%
+The accuracy of the model of worker 0 on epoch 11 is 86.54%
+The accuracy of the model of worker 0 on epoch 11 is 89.06%
+The accuracy of the model of worker 0 on epoch 11 is 86.44%
+The accuracy of the model of worker 0 on epoch 11 is 87.82%
+The accuracy of the model of worker 0 on epoch 11 is 74.2%
+The accuracy of the model of worker 0 on epoch 11 is 55.22%
+The accuracy of the model of worker 0 on epoch 21 is 90.1%
+The accuracy of the model of worker 0 on epoch 21 is 91.54%
+The accuracy of the model of worker 0 on epoch 21 is 88.48%
+The accuracy of the model of worker 0 on epoch 21 is 91.76%
+The accuracy of the model of worker 0 on epoch 21 is 88.7%
+The accuracy of the model of worker 0 on epoch 21 is 83.68%
+The accuracy of the model of worker 0 on epoch 21 is 69.56%
+The accuracy of the model of worker 0 on epoch 31 is 89.68%
+The accuracy of the model of worker 0 on epoch 31 is 90.84%
+The accuracy of the model of worker 0 on epoch 31 is 86.54%
+The accuracy of the model of worker 0 on epoch 31 is 91.68%
+The accuracy of the model of worker 0 on epoch 31 is 85.22%
+The accuracy of the model of worker 0 on epoch 31 is 81.02%
+The accuracy of the model of worker 0 on epoch 31 is 61.08%
+The accuracy of the model of worker 0 on epoch 41 is 84.56%
+The accuracy of the model of worker 0 on epoch 41 is 85.9%
+The accuracy of the model of worker 0 on epoch 41 is 92.2%
+The accuracy of the model of worker 0 on epoch 41 is 88.24%
+The accuracy of the model of worker 0 on epoch 41 is 91.74%
+The accuracy of the model of worker 0 on epoch 41 is 74.6%
+The accuracy of the model of worker 0 on epoch 41 is 54.04%
+The accuracy of the model of worker 0 on epoch 50 is 84.2%
+Running on GPU  3
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 1 is 9.42%
+The accuracy of the model of worker 0 on epoch 50 is 88.64%
+Running on GPU  6
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 1 is 10.02%
+The accuracy of the model of worker 0 on epoch 50 is 91.38%
+Running on GPU  1
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 88.94%
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+Running on GPU  7
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 50 is 92.82%
+Running on GPU  5
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 50 is 78.74%
+Running on GPU  2
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 1 is 9.42%
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 1 is 14.9%
+The accuracy of the model of worker 0 on epoch 1 is 31.28%
+The accuracy of the model of worker 0 on epoch 1 is 26.1%
+The accuracy of the model of worker 0 on epoch 50 is 52.3%
+Running on GPU  4
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 1 is 10.24%
+The accuracy of the model of worker 0 on epoch 11 is 9.74%
+The accuracy of the model of worker 0 on epoch 11 is 12.88%
+The accuracy of the model of worker 0 on epoch 11 is 41.82%
+The accuracy of the model of worker 0 on epoch 11 is 14.58%
+The accuracy of the model of worker 0 on epoch 11 is 61.96%
+The accuracy of the model of worker 0 on epoch 11 is 44.88%
+The accuracy of the model of worker 0 on epoch 11 is 10.64%
+The accuracy of the model of worker 0 on epoch 21 is 10.64%
+The accuracy of the model of worker 0 on epoch 21 is 10.64%
+The accuracy of the model of worker 0 on epoch 21 is 10.24%
+The accuracy of the model of worker 0 on epoch 21 is 31.08%
+The accuracy of the model of worker 0 on epoch 21 is 65.14%
+The accuracy of the model of worker 0 on epoch 21 is 65.5%
+The accuracy of the model of worker 0 on epoch 21 is 10.14%
+The accuracy of the model of worker 0 on epoch 31 is 10.06%
+The accuracy of the model of worker 0 on epoch 31 is 10.64%
+The accuracy of the model of worker 0 on epoch 31 is 10.66%
+The accuracy of the model of worker 0 on epoch 31 is 37.48%
+The accuracy of the model of worker 0 on epoch 31 is 46.52%
+The accuracy of the model of worker 0 on epoch 31 is 57.16%
+The accuracy of the model of worker 0 on epoch 31 is 10.64%
+The accuracy of the model of worker 0 on epoch 41 is 14.36%
+The accuracy of the model of worker 0 on epoch 41 is 10.28%
+The accuracy of the model of worker 0 on epoch 41 is 17.6%
+The accuracy of the model of worker 0 on epoch 41 is 9.42%
+The accuracy of the model of worker 0 on epoch 41 is 58.82%
+The accuracy of the model of worker 0 on epoch 41 is 45.62%
+The accuracy of the model of worker 0 on epoch 50 is 18.62%
+Running on GPU  3
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 41 is 16.64%
+The accuracy of the model of worker 0 on epoch 1 is 9.42%
+The accuracy of the model of worker 0 on epoch 50 is 9.42%
+Running on GPU  6
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 1 is 10.24%
+The accuracy of the model of worker 0 on epoch 50 is 60.56%
+Running on GPU  7
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 50 is 37.68%
+Running on GPU  1
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 1 is 10.14%
+The accuracy of the model of worker 0 on epoch 1 is 10.28%
+The accuracy of the model of worker 0 on epoch 50 is 74.98%
+Running on GPU  5
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 50 is 25.86%
+Running on GPU  2
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 1 is 37.28%
+The accuracy of the model of worker 0 on epoch 1 is 9.42%
+The accuracy of the model of worker 0 on epoch 50 is 41.68%
+Running on GPU  4
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 11 is 9.76%
+The accuracy of the model of worker 0 on epoch 1 is 59.42%
+The accuracy of the model of worker 0 on epoch 11 is 10.02%
+The accuracy of the model of worker 0 on epoch 11 is 9.42%
+The accuracy of the model of worker 0 on epoch 11 is 45.8%
+The accuracy of the model of worker 0 on epoch 11 is 74.06%
+The accuracy of the model of worker 0 on epoch 11 is 10.64%
+The accuracy of the model of worker 0 on epoch 21 is 8.64%
+The accuracy of the model of worker 0 on epoch 11 is 88.3%
+The accuracy of the model of worker 0 on epoch 21 is 10.28%
+The accuracy of the model of worker 0 on epoch 21 is 9.42%
+The accuracy of the model of worker 0 on epoch 21 is 10.08%
+The accuracy of the model of worker 0 on epoch 21 is 83.1%
+The accuracy of the model of worker 0 on epoch 21 is 10.64%
+The accuracy of the model of worker 0 on epoch 31 is 9.76%
+The accuracy of the model of worker 0 on epoch 21 is 87.44%
+The accuracy of the model of worker 0 on epoch 31 is 40.8%
+The accuracy of the model of worker 0 on epoch 31 is 9.76%
+The accuracy of the model of worker 0 on epoch 31 is 10.64%
+The accuracy of the model of worker 0 on epoch 31 is 85.74%
+The accuracy of the model of worker 0 on epoch 31 is 10.08%
+The accuracy of the model of worker 0 on epoch 41 is 9.64%
+The accuracy of the model of worker 0 on epoch 31 is 84.68%
+The accuracy of the model of worker 0 on epoch 41 is 10.24%
+The accuracy of the model of worker 0 on epoch 41 is 23.88%
+The accuracy of the model of worker 0 on epoch 41 is 23.36%
+The accuracy of the model of worker 0 on epoch 41 is 83.16%
+The accuracy of the model of worker 0 on epoch 41 is 13.92%
+The accuracy of the model of worker 0 on epoch 50 is 21.92%
+Running on GPU  3
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 1 is 50.08%
+The accuracy of the model of worker 0 on epoch 50 is 10.14%
+Running on GPU  6
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 41 is 91.6%
+The accuracy of the model of worker 0 on epoch 1 is 55.6%
+The accuracy of the model of worker 0 on epoch 50 is 47.9%
+Running on GPU  7
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 50 is 10.14%
+Running on GPU  1
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 1 is 60.76%
+The accuracy of the model of worker 0 on epoch 1 is 60.62%
+The accuracy of the model of worker 0 on epoch 50 is 78.7%
+Running on GPU  5
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 50 is 39.66%
+Running on GPU  2
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 1 is 59.22%
+The accuracy of the model of worker 0 on epoch 1 is 43.14%
+The accuracy of the model of worker 0 on epoch 11 is 89.46%
+The accuracy of the model of worker 0 on epoch 50 is 90.58%
+Running on GPU  4
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy of the model of worker 0 on epoch 0 is 10.64%
+The accuracy of the model of worker 0 on epoch 11 is 86.04%
+The accuracy of the model of worker 0 on epoch 1 is 60.24%
+The accuracy of the model of worker 0 on epoch 11 is 84.28%
+The accuracy of the model of worker 0 on epoch 11 is 88.62%
+The accuracy of the model of worker 0 on epoch 11 is 83.9%
+The accuracy of the model of worker 0 on epoch 11 is 84.78%
+The accuracy of the model of worker 0 on epoch 21 is 85.72%
+The accuracy of the model of worker 0 on epoch 21 is 88.7%
+The accuracy of the model of worker 0 on epoch 11 is 87.96%
+The accuracy of the model of worker 0 on epoch 21 is 88.96%
+The accuracy of the model of worker 0 on epoch 21 is 90.06%
+The accuracy of the model of worker 0 on epoch 21 is 89.1%
+The accuracy of the model of worker 0 on epoch 21 is 83.56%
+The accuracy of the model of worker 0 on epoch 31 is 87.36%
+The accuracy of the model of worker 0 on epoch 31 is 91.96%
+The accuracy of the model of worker 0 on epoch 21 is 86.88%
+The accuracy of the model of worker 0 on epoch 31 is 91.8%
+The accuracy of the model of worker 0 on epoch 31 is 83.9%
+The accuracy of the model of worker 0 on epoch 31 is 91.28%
+The accuracy of the model of worker 0 on epoch 31 is 79.92%
+The accuracy of the model of worker 0 on epoch 41 is 92.84%
+The accuracy of the model of worker 0 on epoch 41 is 92.36%
+The accuracy of the model of worker 0 on epoch 31 is 86.22%
+The accuracy of the model of worker 0 on epoch 41 is 92.7%
+The accuracy of the model of worker 0 on epoch 41 is 92.42%
+The accuracy of the model of worker 0 on epoch 41 is 92.62%
+The accuracy of the model of worker 0 on epoch 41 is 89.68%
+The accuracy of the model of worker 0 on epoch 50 is 87.6%
+Search is done
+
+The default configuration has an accuracy of 0.815. 
+The best configuration found by DeepHyper has an accuracy 0.932, 
+finished after 1481.71 seconds of search.
+
+The accuracy of the model of worker 0 on epoch 50 is 92.74%
+The accuracy of the model of worker 0 on epoch 41 is 92.12%
+The accuracy of the model of worker 0 on epoch 50 is 93.32%
+The accuracy of the model of worker 0 on epoch 50 is 92.38%
+The accuracy of the model of worker 0 on epoch 50 is 92.96%
+The accuracy of the model of worker 0 on epoch 50 is 85.32%
+The accuracy of the model of worker 0 on epoch 50 is 89.04%
+[0m[0m[0m[0m[0m[0m[0m[0m
