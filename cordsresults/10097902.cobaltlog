@@ -1,0 +1,25 @@
+Jobid: 10097902
+qsub --mode script -q full-node -n 1 -t 180 -A datascience --attrs filesystems=home,grand,eagle,theta-fs0 job-compare.sh
+Fri Aug 05 15:07:07 2022 +0000 (UTC) submitted with cwd set to: /lus/grand/projects/datascience/ianwixom/expcifar
+jobid 10097902 submitted from terminal /dev/pts/4
+Fri Aug 05 15:07:21 2022 +0000 (UTC) 
+Fri Aug 05 15:07:21 2022 +0000 (UTC) Command: '/usr/bin/ssh' 'thetagpu21' '/usr/bin/cobalt-launcher.py' '--nf' '/var/tmp/cobalt.10097902' '--jobid' '10097902' '--cwd' '/lus/grand/projects/datascience/ianwixom/expcifar' '--env' 'COBALT_JOBID=10097902' '/lus/grand/projects/datascience/ianwixom/expcifar/job-compare.sh'
+Fri Aug 05 15:07:21 2022 +0000 (UTC) 
+Fri Aug 05 15:07:21 2022 +0000 (UTC) Environment:
+Fri Aug 05 15:07:21 2022 +0000 (UTC) SHELL=/bin/bash
+Fri Aug 05 15:07:21 2022 +0000 (UTC) COBALT_NODEFILE=/tmp/tmp6C8gdc
+Fri Aug 05 15:07:21 2022 +0000 (UTC) COBALT_PARTNAME=thetagpu21
+Fri Aug 05 15:07:21 2022 +0000 (UTC) COBALT_JOBID=10097902
+Fri Aug 05 15:07:21 2022 +0000 (UTC) COBALT_STARTTIME=1659712030
+Fri Aug 05 15:07:21 2022 +0000 (UTC) LOGNAME=iwixom
+Fri Aug 05 15:07:21 2022 +0000 (UTC) USER=iwixom
+Fri Aug 05 15:07:21 2022 +0000 (UTC) COBALT_ENDTIME=1659722830
+Fri Aug 05 15:07:21 2022 +0000 (UTC) COBALT_PARTSIZE=1
+Fri Aug 05 15:07:21 2022 +0000 (UTC) HOME=/home/iwixom
+Fri Aug 05 15:07:21 2022 +0000 (UTC) COBALT_JOBSIZE=1
+Fri Aug 05 15:07:21 2022 +0000 (UTC) 
+Fri Aug 05 15:07:21 2022 +0000 (UTC) Info: stdin received from /dev/null
+Fri Aug 05 15:07:21 2022 +0000 (UTC) Info: stdout sent to /lus/grand/projects/datascience/ianwixom/expcifar/10097902.output
+Fri Aug 05 15:07:21 2022 +0000 (UTC) Info: stderr sent to /lus/grand/projects/datascience/ianwixom/expcifar/10097902.error
+Fri Aug 05 15:07:21 2022 +0000 (UTC) 
+Fri Aug 05 16:58:35 2022 +0000 (UTC) Info: task completed normally with an exit code of 0; initiating job cleanup and removal
