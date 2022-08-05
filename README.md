@@ -13,9 +13,11 @@ There were four different scenarios that were evaluated. The first trained on a 
 
 The scenarios generated the following results:
 
-    • Full Data, 50 epochs: 1465.27 avg. search time, 93.1% highest comparison accuracy
-    • Full Data, 25 epochs: 734.45 sec., 93.5%
-    • Random:  209.86 sec.,  93.5% 
-    • Grad-Match: 262.18 sec., 92.9% 
+    • Full Data, 50 epochs: 1465.27 avg. config run time, 92.5% highest comparison accuracy
+    • Full Data, 25 epochs: 734.45 sec., 93.3%
+    • Random:  209.86 sec.,  91.1% 
+    • Grad-Match: 262.18 sec., 92.5% 
     
-We see that the accuracy after a more complete training is nearly identical with a range of 0.6%, with the short-stopped full dataset and random performing the best. This was somewhat surprising as we hypothesized that Grad-Match would be the highest performing due to its optimized subsets. Nonetheless, Grad-Match and Random clearly outperformed the full dataset scenarios given the average search length, with the 50 epoch and full dataset taking 24:25 per search to Random’s 3:29 which provides an 85.7% reduction for equivalent accuracy. 
+We see that the accuracy after a more complete training is very similar with a range of 2.2%, with the full dataset with the half the number of total epochs performing the best. This was somewhat surprising as we hypothesized that Grad-Match would be the highest performing due to its optimized subsets. Nonetheless, Grad-Match and Random clearly outperformed the full dataset scenarios given the average time spent on an evaluation, with the 50 epoch and full dataset taking 24:25 per configuration run to Random’s 3:29 which provides an 85.7% reduction for similar accuracy. 
+
+More information can be seen in the report.pdf.
