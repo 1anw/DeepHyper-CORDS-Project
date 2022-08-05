@@ -48,7 +48,7 @@ pathlib.Path(search_log_dir).mkdir(parents=False, exist_ok=True)
 def load_data():
     train_ds, valid_ds, test_ds, num_cls = gen_dataset('/lus/grand/projects/datascience/ianwixom/expcifar/', 'cifar10', None, isnumpy=False)
     
-    return train_ds, valid_ds
+    return train_ds, valid_ds, test_ds
 
 def importresults():
     data_full = pd.read_csv("/lus/grand/projects/datascience/ianwixom/expcifar/r_full/results.csv") # noncords full length
@@ -108,10 +108,7 @@ def train(model, criterion, optimizer, scheduler, epochs, dl, valid_dl, device):
     
     acc = eval(model, criterion, valid_dl, device)
     print(f"The accuracy of the model of worker {rank} on epoch {epochs} is {round(acc*100, 2)}%")
-
-    if acc_max < acc:
-        acc_max = acc
-    return round(acc_max, 4)
+  
 
 
 def eval(model, criterion, dl, device):
@@ -122,7 +119,7 @@ def eval(model, criterion, dl, device):
         for _, (features, labels) in enumerate(dl):
             features, labels = features.to(device), labels.to(device, non_blocking = True)
             predictions = model(features)
-            loss = criterion(predictions, labels)
+            # loss = criterion(predictions, labels)
             correct += float((predictions.argmax(1) == labels).type(torch.float).sum().item())
     return correct / len(dl.dataset)
 
@@ -136,9 +133,10 @@ def run(config: dict):
     else:
         device = torch.device("cuda")
         print("Running on the GPU")
-    train_ds, valid_ds = load_data()
+    train_ds, valid_ds, test_ds = load_data()
     train_dl = DataLoader(train_ds, batch_size = 128, shuffle = True, num_workers = 0, pin_memory = True)
     valid_dl = DataLoader(valid_ds, batch_size = 128, shuffle = True, num_workers = 0, pin_memory = True)
+    test_dl = DataLoader(test_ds, batch_size = 10000, shuffle = True, num_workers = 0, pin_memory = True)
 
     block_struct = [2, 2, 2, 2]
 
@@ -152,8 +150,9 @@ def run(config: dict):
     
     scheduler = o.lr_scheduler.CosineAnnealingLR(optimizer, T_max=config['t_max'])
 
-    acc = train(model, criterion, optimizer, scheduler, epochs, train_dl, valid_dl, device)
-
+    train(model, criterion, optimizer, scheduler, epochs, train_dl, valid_dl, device)
+    acc = eval(model, criterion, test_dl, device)
+    
     #Free GPU memory
     del model
     # torch.cuda.empty_cache()
