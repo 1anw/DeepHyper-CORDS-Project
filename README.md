@@ -11,4 +11,8 @@ There were four different scenarios that were evaluated. The first trained on a 
 
 ## Results
 
-The results may be found underneath the report pdf.
+We see that the accuracy after a more complete training is very similar with a range of 3.2%, with the full dataset with the half the number of total epochs performing the best. This was somewhat surprising as we hypothesized that Grad-Match would be the highest performing due to its optimized subsets. Similar results were achieved with the test accuracy from the top validation accuracy model. Nonetheless, Grad-Match and Random clearly outperformed the full dataset scenarios given the average time spent on an evaluation, with the 50 epoch and full dataset taking 24:25 per configuration run to Random’s 3:29 which provides an 85.7% reduction for similar accuracy.
+
+## Acknowledgements
+
+This work was funded by and used resources of the Argonne Leadership Computing Facility (ALCF), a DOE Office of Science User Facility supported under Contract DE-AC0206CH11357. This work also used resources from Decile under MIT License 3.
